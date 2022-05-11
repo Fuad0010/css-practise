@@ -1,0 +1,63 @@
+*{
+
+}
+.icon{
+    transform: rotate(45deg);
+    transform-origin: 0% 100%;
+    display: flex;
+
+}
+.iconinfo{
+    display: flex;
+    margin-left: 40px;
+    size: 600px;
+}
+.navlinks{
+    margin-left: 700px;
+    display: flex;
+}
+.socialaccount{
+    display: flex;
+}
+.navall{
+    display: flex;
+}
+.navlinks a{
+    padding: 10px;
+}
+.socialaccount a{
+    padding: 7px;
+}
+.form input{
+    display: block;
+}
+.form label{
+    display: block;
+}
+.form select{
+    display: block;
+}
+.form button{
+    display: block;
+}
+.form{
+    display: flex;
+    margin: 150px 400px;
+
+}
+.mark{
+    display: flex;
+ 
+}
+.mark h5{
+    margin: 0px 50px;
+}
+.form{
+    display: flex;
+}
+.qwe{
+    display: flex;
+}
+.section1{
+    margin: 125px 200px;
+}
